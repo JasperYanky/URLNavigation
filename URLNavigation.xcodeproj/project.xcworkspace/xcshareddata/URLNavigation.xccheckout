@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5A60C046-F9A1-43D7-8DCA-EDAEAE9E7A59</string>
+	<key>IDESourceControlProjectName</key>
+	<string>URLNavigation</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2C1C2ED7-1546-4D13-AB57-53ED885CCF73</key>
+		<string>https://github.com/JasperYanky/URLNavigation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>URLNavigation.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2C1C2ED7-1546-4D13-AB57-53ED885CCF73</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JasperYanky/URLNavigation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2C1C2ED7-1546-4D13-AB57-53ED885CCF73</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2C1C2ED7-1546-4D13-AB57-53ED885CCF73</string>
+			<key>IDESourceControlWCCName</key>
+			<string>URLNavigation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
